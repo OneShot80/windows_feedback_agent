@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\user\Desktop\CpuMonitor_bla_bla\CpuMonitor_Src_4.3.0\cpumonitor\Monitor\obj\Debug\
+C:\github\windows_feedback_agent\Monitor\obj\Debug\
 Monitor
 none
 false
 DEBUG;TRACE
-C:\Users\user\Desktop\CpuMonitor_bla_bla\CpuMonitor_Src_4.3.0\cpumonitor\Monitor\App.xaml
+C:\github\windows_feedback_agent\Monitor\App.xaml
 11151548125
 
 7276789846
-251762191510
+25892910381
 MainWindow.xaml;
 
 False

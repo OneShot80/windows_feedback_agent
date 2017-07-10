@@ -7,3 +7,13 @@ C:\Users\user\Desktop\CpuMonitor_bla_bla\CpuMonitor_Src_4.2.6\cpumonitor\LBCPUMo
 C:\Users\user\Desktop\CpuMonitor_bla_bla\CpuMonitor_Src_4.2.6\cpumonitor\LBCPUMon\obj\DebugService\LBCPUMon.csproj.GenerateResource.Cache
 C:\Users\user\Desktop\CpuMonitor_bla_bla\CpuMonitor_Src_4.2.6\cpumonitor\LBCPUMon\obj\DebugService\LBCPUMon.exe
 C:\Users\user\Desktop\CpuMonitor_bla_bla\CpuMonitor_Src_4.2.6\cpumonitor\LBCPUMon\obj\DebugService\LBCPUMon.pdb
+C:\github\windows_feedback_agent\LBCPUMon\bin\DebugService\LBCPUMon.exe.config
+C:\github\windows_feedback_agent\LBCPUMon\bin\DebugService\LBCPUMon.exe
+C:\github\windows_feedback_agent\LBCPUMon\bin\DebugService\LBCPUMon.pdb
+C:\github\windows_feedback_agent\LBCPUMon\obj\DebugService\LBCPUMon.csprojResolveAssemblyReference.cache
+C:\github\windows_feedback_agent\LBCPUMon\obj\DebugService\LBCPUMon.LBCPUMon.resources
+C:\github\windows_feedback_agent\LBCPUMon\obj\DebugService\LBCPUMon.ProjectInstaller.resources
+C:\github\windows_feedback_agent\LBCPUMon\obj\DebugService\Centivus.Services.ServiceDebugger.resources
+C:\github\windows_feedback_agent\LBCPUMon\obj\DebugService\LBCPUMon.csproj.GenerateResource.Cache
+C:\github\windows_feedback_agent\LBCPUMon\obj\DebugService\LBCPUMon.exe
+C:\github\windows_feedback_agent\LBCPUMon\obj\DebugService\LBCPUMon.pdb

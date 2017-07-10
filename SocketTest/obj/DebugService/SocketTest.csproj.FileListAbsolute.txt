@@ -2,3 +2,8 @@ C:\Users\user\Desktop\CpuMonitor_bla_bla\CpuMonitor_Src_4.2.6\cpumonitor\SocketT
 C:\Users\user\Desktop\CpuMonitor_bla_bla\CpuMonitor_Src_4.2.6\cpumonitor\SocketTest\bin\DebugService\SocketTest.pdb
 C:\Users\user\Desktop\CpuMonitor_bla_bla\CpuMonitor_Src_4.2.6\cpumonitor\SocketTest\obj\DebugService\SocketTest.exe
 C:\Users\user\Desktop\CpuMonitor_bla_bla\CpuMonitor_Src_4.2.6\cpumonitor\SocketTest\obj\DebugService\SocketTest.pdb
+C:\github\windows_feedback_agent\SocketTest\bin\DebugService\SocketTest.exe.config
+C:\github\windows_feedback_agent\SocketTest\bin\DebugService\SocketTest.exe
+C:\github\windows_feedback_agent\SocketTest\bin\DebugService\SocketTest.pdb
+C:\github\windows_feedback_agent\SocketTest\obj\DebugService\SocketTest.exe
+C:\github\windows_feedback_agent\SocketTest\obj\DebugService\SocketTest.pdb
